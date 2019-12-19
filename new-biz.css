@@ -7,41 +7,28 @@ body {
 }
 
 header {
-    background-color: purple;
+    background-color: rgb(101, 172, 20);
     border: gold;
-    border-width: 10px;
-    height: 175px;
+    
+padding: ; {
+    text-align: center;
 }
 
-#smiley {
-    height: 150px;
-    width: 150px;
-    box-sizing: border-box;
-    border: gold;
+#header-title {
     float: left;
-    margin-left: 15px;
-    margin-top: 15px;
 }
 
-#h_title {
-    color: white;
-    font-size: 36px;
-    top: 10px;
-    float: left;
-    margin-left: 30px;
-}
-#sidebar {
-    color: orange;
-}
-#h_p {
-    color: white;
-    font-size: 20px;
-    float: left;
-    top: 160px;   
-    margin-left: 30px;
+aside{
+   float: left; 
+   width: 100px;
+   height: auto;
 }
 
-.rc_image {
-    height: 200px;
-    width: 200px;
+footer {
+    width: 100%;
+    background-color: red;
+    text-align: center;
+}
+#receipe1, #receipe2, #receipe3{
+
 }
