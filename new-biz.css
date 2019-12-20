@@ -6,12 +6,22 @@ body {
     opacity: 50%;
 }
 
+nav {
+    float: left;
+    width:18%;
+    height: 900px;
+
+}
 header {
     background-color: rgb(101, 172, 20);
     border: gold;
     
 padding: ; {
     text-align: center;
+}
+.smiley {
+    width: 10%;
+    height: 10%;
 }
 
 #header-title {
@@ -24,11 +34,27 @@ aside{
    height: auto;
 }
 
+.highimage {
+    float: left;
+    width: 620px;
+    margin: 10px;
+
+}
+
+.column2{
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+
+.high {
+    float: left;
+    width: 620px;
+    margin: 10px;
+}
+
 footer {
     width: 100%;
     background-color: red;
     text-align: center;
-}
-#receipe1, #receipe2, #receipe3{
-
 }
